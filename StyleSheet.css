@@ -72,7 +72,7 @@ hr {
 }
 
 .slick-next { /*次へ矢印の位置と形状*/
-    right: -%;
+    right: -7%;
     transform: rotate(45deg);
 }
 
